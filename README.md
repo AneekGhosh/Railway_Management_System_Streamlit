@@ -1,6 +1,6 @@
 # 🚆 Railway Management System (Streamlit + SQLite)
 
-![Project Banner]([images/banner.png](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/596ff4ad25954e36f858bb2407ee9aac65fe98c2/Banner.png))
+![Project Banner](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/a8b99af0a4307db37d514854c2c44e722de5428b/Banner.png)
 
 ### 💻 Built by [Aneek Ghosh](https://github.com/AneekGhosh)
 
