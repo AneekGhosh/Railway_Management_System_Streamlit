@@ -88,9 +88,12 @@ Then open the link shown in your terminal (usually [http://localhost:8501](http:
 
 ## 📸 Screenshots
 
-| Admin Dashboard                                | Passenger Portal                                 |
-| ---------------------------------------------- | ------------------------------------------------ |
-| ![Admin Dashboard]([images/admin_dashboard.png](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/596ff4ad25954e36f858bb2407ee9aac65fe98c2/Admin%20Portal.png)) | ![Passenger Portal](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/596ff4ad25954e36f858bb2407ee9aac65fe98c2/Passenger%20Portal.png) |
+## 📸 Screenshots
+
+| 🧑‍💼 Admin Dashboard | 👥 Passenger Portal |
+|------------------|------------------|
+| ![Admin Portal](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/main/Admin%20Portal.png?raw=true) |
+  ![Passenger Portal](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/main/Passenger%20Portal.png?raw=true) |
 
 ---
 
