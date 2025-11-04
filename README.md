@@ -92,8 +92,6 @@ Then open the link shown in your terminal (usually [http://localhost:8501](http:
 | ---------------------------------------------- | ------------------------------------------------ |
 | ![Admin Dashboard](images/admin_dashboard.png) | ![Passenger Portal](images/passenger_portal.png) |
 
-*(Add your own screenshots in an `/images` folder and update the paths above.)*
-
 ---
 
 ## 🚀 Deployment
