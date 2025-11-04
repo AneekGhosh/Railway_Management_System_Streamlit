@@ -1,6 +1,6 @@
 # 🚆 Railway Management System (Streamlit + SQLite)
 
-![Project Banner](images/banner.png)
+![Project Banner]([images/banner.png](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/596ff4ad25954e36f858bb2407ee9aac65fe98c2/Banner.png))
 
 ### 💻 Built by [Aneek Ghosh](https://github.com/AneekGhosh)
 
@@ -90,7 +90,7 @@ Then open the link shown in your terminal (usually [http://localhost:8501](http:
 
 | Admin Dashboard                                | Passenger Portal                                 |
 | ---------------------------------------------- | ------------------------------------------------ |
-| ![Admin Dashboard](images/admin_dashboard.png) | ![Passenger Portal](images/passenger_portal.png) |
+| ![Admin Dashboard]([images/admin_dashboard.png](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/596ff4ad25954e36f858bb2407ee9aac65fe98c2/Admin%20Portal.png)) | ![Passenger Portal](https://github.com/AneekGhosh/Railway_Management_System_Streamlit/blob/596ff4ad25954e36f858bb2407ee9aac65fe98c2/Passenger%20Portal.png) |
 
 ---
 
